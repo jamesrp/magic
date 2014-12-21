@@ -1,8 +1,8 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
-"Abundant Growth",12,43905,Common,AVR,167/244,No
-"Abattoir Ghoul",4,42418,Uncommon,ISD,85/264,No
 "Abbey Griffin",12,42612,Common,ISD,1/264,No
+"Abattoir Ghoul",4,42418,Uncommon,ISD,85/264,No
 "Abhorrent Overlord",4,50400,Rare,THS,75/249,No
+"Abundant Growth",12,43905,Common,AVR,167/244,No
 "Abzan Banner",3,54060,Common,KTK,215/269,No
 "Abzan Guide",1,54136,Common,KTK,162/269,No
 "Acidic Slime",9,45286,Uncommon,M13,159/249,No
@@ -520,6 +520,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Ethersworn Canonist",2,30999,Rare,ALA,10/249,No
 "Evangel of Heliod",2,50352,Uncommon,THS,11/249,No
 "Everflame Eidolon",2,51687,Uncommon,BNG,92/165,No
+"Everflowing Chalice",1,39621,Uncommon,PRM,542/1158,Yes
 "Evolving Wilds",21,45366,Common,M13,224/249,No
 "Excoriate",1,51583,Common,BNG,10/165,No
 "Executioner's Hood",4,43235,Common,DKA,148/158,No
@@ -1543,7 +1544,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Temple of Abandon",4,50266,Rare,THS,224/249,No
 "Temple of Deceit",6,50264,Rare,THS,225/249,No
 "Temple of Malice",6,51563,Rare,BNG,164/165,No
-"Temple of Mystery",2,50272,Rare,THS,226/249,No
+"Temple of Mystery",3,53846,Promo,PRM,6/1158,No
 "Temple of Plenty",4,51565,Rare,BNG,165/165,No
 "Temple of Silence",4,50268,Rare,THS,227/249,No
 "Temple of Triumph",4,50270,Rare,THS,228/249,No
