@@ -61,7 +61,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Arachnus Web",6,41459,Common,M12,163/249,No
 "Arbalest Elite",8,41359,Uncommon,M12,5/249,No
 "Arbiter of the Ideal",1,51723,Rare,BNG,31/165,No
-"Arbor Colossus",4,50402,Rare,THS,150/249,No
 "Arbor Elf",8,45364,Common,M13,160/249,No
 "Arcbound Ravager",4,20597,Rare,DST,100/165,No
 "Archaeomancer",14,45496,Common,M13,41/249,No
@@ -178,7 +177,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Bonebreaker Giant",5,41519,Common,M12,123/249,No
 "Boneyard Wurm",1,42826,Uncommon,ISD,171/264,No
 "Boon of Erebos",2,50580,Common,THS,80/249,No
-"Boon Satyr",4,50136,Rare,THS,152/249,No
 "Borderland Minotaur",1,50340,Common,THS,114/249,No
 "Borderland Ranger",17,43827,Common,AVR,169/244,No
 "Boros Charm",4,47477,Uncommon,GTC,148/249,No
@@ -190,7 +188,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Boulderfall",3,50564,Common,THS,115/249,No
 "Bountiful Harvest",11,45290,Common,M13,163/249,No
 "Bounty Hunter",1,9779,Rare,TE,110/350,No
-"Bow of Nylea",1,50412,Rare,THS,153/249,No
 "Bower Passage",4,44273,Uncommon,AVR,170/244,No
 "Brain Pry",1,24165,Uncommon,DIS,39/180,No
 "Brain Weevil",14,42614,Common,ISD,91/264,No
@@ -355,7 +352,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Curse of Oblivion",14,42634,Common,ISD,95/264,No
 "Curse of the Bloody Tome",13,42536,Common,ISD,50/264,No
 "Curse of the Pierced Heart",16,42830,Common,ISD,138/264,No
-"Curse of the Swine",1,50378,Rare,THS,46/249,No
 "Curse of Thirst",1,43499,Uncommon,PRM,984/1158,No
 "Cursebreak",15,44035,Common,AVR,14/244,No
 "Cutthroat Maneuver",2,50226,Uncommon,THS,82/249,No
@@ -401,7 +397,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Defend the Hearth",1,50476,Common,THS,156/249,No
 "Defiant Strike",1,53964,Common,KTK,7/269,No
 "Defy Death",2,43845,Uncommon,AVR,16/244,No
-"Deicide",2,52112,Rare,JOU,7/165,No
 "Delver of Secrets",13,42437,Common,ISD,51/264,Yes
 "Demolish",18,50582,Common,THS,118/249,No
 "Demonic Dread",4,32440,Common,ARB,38/145,No
@@ -525,7 +520,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Epiphany Storm",3,51629,Common,BNG,91/165,No
 "Erase",12,53960,Common,KTK,9/269,No
 "Erdwal Ripper",5,43295,Common,DKA,86/158,No
-"Erebos, God of the Dead",1,50308,Mythic Rare,THS,85/249,No
 "Erhnam Djinn",1,53007,Uncommon,VMA,207/325,No
 "Essence Drain",13,45219,Common,M13,93/249,Yes
 "Essence Harvest",20,44195,Common,AVR,100/244,No
@@ -558,7 +552,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Farseek",15,45724,Common,M13,170/249,No
 "Fate Foretold",3,50560,Common,THS,48/249,No
 "Fated Intervention",1,51855,Rare,BNG,121/165,No
-"Fated Return",1,51819,Rare,BNG,69/165,No
 "Faultgrinder",1,28649,Common,LRW,163/301,No
 "Favor of the Woods",6,43345,Common,DKA,113/158,No
 "Favorable Winds",2,44043,Uncommon,AVR,51/244,No
@@ -595,7 +588,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Flaring Pain",2,17516,Common,JUD,89/143,No
 "Flashfreeze",6,41613,Uncommon,M12,52/249,No
 "Fledgling Djinn",1,9141,Common,WL,69/167,No
-"Fleecemane Lion",4,50262,Rare,THS,193/249,No
 "Fleetfeather Sandals",5,50210,Common,THS,216/249,No
 "Fleeting Distraction",15,44083,Common,AVR,53/244,No
 "Flight Spellbomb",4,38321,Common,SOM,155/249,No
@@ -668,7 +660,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Giant Spider",8,41153,Common,M12,177/249,No
 "Gift of Immortality",1,50374,Rare,THS,14/249,No
 "Gift of Orzhova",1,47591,Uncommon,GTC,219/249,No
-"Gild",5,51681,Rare,BNG,73/165,No
+"Gild",4,51681,Rare,BNG,73/165,No
 "Gitaxian Probe",4,39976,Common,NPH,35/175,No
 "Glacial Ray",2,36287,Common,PRM,518/1158,Yes
 "Glacial Stalker",1,53978,Common,KTK,41/269,No
@@ -785,7 +777,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Heirs of Stromkirk",16,44127,Common,AVR,140/244,No
 "Hellraiser Goblin",1,47681,Uncommon,GTC,95/249,No
 "Herald of Anafenza",1,54282,Rare,KTK,12/269,No
-"Hero of Leina Tower",1,51735,Rare,BNG,123/165,No
 "Hesitation",1,10281,Uncommon,ST,33/143,No
 "Hidden Spider",4,11847,Common,UZ,264/350,No
 "Hideous Visage",7,41479,Common,M12,100/249,No
@@ -1008,7 +999,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Minotaur Skullcleaver",1,50182,Common,THS,130/249,No
 "Mischief and Mayhem",1,51849,Uncommon,BNG,126/165,No
 "Mist Raven",13,44205,Common,AVR,67/244,No
-"Mistcutter Hydra",1,50386,Rare,THS,162/249,No
 "Mistform Seaswift",1,18451,Common,LGN,45/145,No
 "Mistmoon Griffin",1,52651,Common,VMA,34/325,No
 "Misty Rainforest",4,34622,Rare,ZEN,220/249,No
@@ -1091,7 +1081,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Nostalgic Dreams",2,52965,Uncommon,VMA,222/325,No
 "Nullify",4,51597,Common,BNG,45/165,No
 "Nurturing Licid",1,10017,Uncommon,TE,242/350,No
-"Nykthos, Shrine to Nyx",4,50274,Rare,THS,223/249,No
 "Nylea's Disciple",2,50196,Common,THS,167/249,No
 "Nylea's Emissary",1,50509,Uncommon,THS,168/249,Yes
 "Nylea's Presence",5,50200,Common,THS,169/249,No
@@ -1137,7 +1126,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Overrule",1,24069,Common,DIS,120/180,No
 "Overrun",4,41343,Uncommon,M12,186/249,No
 "Pacifism",18,45220,Common,M13,24/249,No
-"Pain Seer",2,51916,Rare,PRM,1130/1158,No
+"Pain Seer",1,51916,Rare,PRM,1130/1158,No
 "Paralyze",1,52639,Common,VMA,132/325,No
 "Paranoid Delusions",2,47859,Common,GTC,186/249,No
 "Paraselene",5,42802,Uncommon,ISD,26/264,No
@@ -1196,7 +1185,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Primal Visitation",1,47853,Common,GTC,187/249,No
 "Prismatic Strands",1,17390,Common,JUD,18/143,No
 "Prized Elephant",5,45610,Uncommon,M13,27/249,No
-"Prophet of Kruphix",3,53844,Promo,PRM,5/1158,No
+"Prophet of Kruphix",1,53844,Promo,PRM,5/1158,No
 "Prophetic Prism",7,47539,Common,GTC,234/249,No
 "Prowler's Helm",1,50250,Uncommon,THS,219/249,No
 "Psychotic Fury",1,24163,Common,DIS,68/180,No
@@ -1248,7 +1237,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Reap and Sow",4,20347,Common,DST,81/165,No
 "Reap the Seagraf",11,43243,Common,DKA,72/158,No
 "Reap What Is Sown",1,51867,Uncommon,BNG,154/165,No
-"Reaper of the Wilds",2,50516,Rare,THS,201/249,No
 "Rebuke",10,42774,Common,ISD,29/264,No
 "Reckless Brute",10,45522,Common,M13,144/249,No
 "Reckless Charge",1,52927,Common,VMA,181/325,No
@@ -1271,7 +1259,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Retraction Helix",2,51593,Common,BNG,49/165,No
 "Returned Phalanx",4,50444,Common,THS,104/249,No
 "Returned Reveler",1,52098,Common,JOU,79/165,No
-"Reverent Hunter",2,50558,Rare,THS,173/249,No
 "Revive",3,45282,Uncommon,M13,187/249,No
 "Revoke Existence",2,51663,Common,BNG,25/165,No
 "Rewind",7,45244,Uncommon,M13,65/249,No
@@ -1441,7 +1428,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Sigiled Starfish",1,52282,Common,JOU,52/165,No
 "Sign in Blood",13,45303,Common,M13,110/249,Yes
 "Signal Pest",4,39599,Uncommon,MBS,131/155,No
-"Silence the Believers",4,52268,Rare,JOU,82/165,No
 "Silent Artisan",2,50458,Common,THS,31/249,No
 "Silent Departure",11,42284,Common,ISD,75/264,No
 "Silverchase Fox",18,42606,Common,ISD,31/264,No
@@ -1488,7 +1474,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Snapcaster Mage",4,42512,Rare,ISD,78/264,No
 "Snare the Skies",13,44185,Common,AVR,193/244,No
 "Solar Blast",1,53041,Common,VMA,187/325,No
-"Soldier of the Pantheon",1,50608,Rare,THS,32/249,No
 "Soltari Trooper",1,52664,Common,VMA,47/325,Yes
 "Somber Hoverguard",4,19697,Common,MRD,51/306,No
 "Somberwald Dryad",5,43249,Common,DKA,126/158,No
@@ -1519,7 +1504,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Spinning Darkness",1,9151,Common,WL,81/167,No
 "Spire Tracer",2,47629,Common,GTC,135/249,No
 "Spirit Mantle",5,41395,Uncommon,M12,35/249,No
-"Spirit of the Labyrinth",4,51769,Rare,BNG,27/165,No
 "Spiritmonger",1,52599,Rare,VMA,262/325,No
 "Spiteful Shadows",4,43323,Common,DKA,75/158,No
 "Splatter Thug",4,46335,Common,RTR,105/274,No
@@ -1534,7 +1518,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Starlight Invoker",2,18553,Common,LGN,20/145,No
 "Staunch-Hearted Warrior",2,50506,Common,THS,179/249,No
 "Stave Off",6,41467,Common,M12,36/249,No
-"Steam Augury",1,50600,Rare,THS,205/249,No
 "Steam Vents",4,46805,Rare,RTR,247/274,No
 "Steel Overseer",2,37418,Rare,M11,214/249,No
 "Steeling Stance",1,24075,Common,DIS,18/180,No
@@ -1596,13 +1579,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Tectonic Edge",4,35589,Uncommon,WWK,145/145,No
 "Tectonic Rift",6,41499,Uncommon,M12,157/249,No
 "Temple Garden",4,46501,Rare,RTR,248/274,No
-"Temple of Abandon",4,50266,Rare,THS,224/249,No
-"Temple of Deceit",6,50264,Rare,THS,225/249,No
-"Temple of Malice",6,51563,Rare,BNG,164/165,No
-"Temple of Mystery",3,53846,Promo,PRM,6/1158,No
-"Temple of Plenty",4,51565,Rare,BNG,165/165,No
-"Temple of Silence",4,50268,Rare,THS,227/249,No
-"Temple of Triumph",4,50270,Rare,THS,228/249,No
+"Temple of Mystery",1,53846,Promo,PRM,6/1158,No
 "Temur Banner",2,54066,Common,KTK,226/269,No
 "Temur Charger",1,54120,Uncommon,KTK,153/269,No
 "Temur Charm",1,54132,Uncommon,KTK,208/269,No
@@ -1784,8 +1761,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Welkin Tern",8,45360,Common,M13,79/249,No
 "Wellwisher",1,18119,Common,ONS,300/350,No
 "Wetland Sambar",2,53972,Common,KTK,62/269,No
-"Whelming Wave",1,51797,Rare,BNG,57/165,No
-"Whip of Erebos",4,50408,Rare,THS,110/249,No
 "Whipflare",4,39694,Uncommon,NPH,102/175,No
 "White Knight",1,18461,Uncommon,LGN,27/145,No
 "Wight of Precinct Six",1,47737,Uncommon,GTC,84/249,No
@@ -1817,8 +1792,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Wring Flesh",5,41543,Common,M12,118/249,No
 "Wurm's Tooth",5,41597,Uncommon,M12,223/249,No
 "Xathrid Gorgon",4,45205,Rare,PRM,1012/1158,No
-"Xenagos, God of Revels",1,51745,Mythic Rare,BNG,156/165,No
-"Xenagos, the Reveler",1,50316,Mythic Rare,THS,209/249,No
 "Yavimaya Elder",1,52889,Uncommon,VMA,240/325,No
 "Yavimaya Hollow",1,52818,Rare,VMA,325/325,Yes
 "Yeva's Forcemage",8,45532,Common,M13,198/249,No
