@@ -1,7 +1,7 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
-"Avatar - Face the Hydra",1,50078,Rare,VAN,167/208,No
 "Avatar - Dack Fayden",3,52554,Rare,VAN,198/208,No
 "Avatar - Erhnam Djinn",1,16,Rare,VAN,27/208,No
+"Avatar - Face the Hydra",1,50078,Rare,VAN,167/208,No
 "Avatar - Goblin Warchief",1,10,Rare,VAN,5/208,No
 "Avatar - Grinning Demon",1,17,Rare,VAN,29/208,No
 "Avatar - Griselbrand",9,44293,Rare,VAN,147/208,No
@@ -15,7 +15,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Avatar - The Destined",2,52550,Rare,VAN,194/208,No
 "Avatar - The Explorer",1,51884,Rare,VAN,183/208,No
 "Avatar - The General",5,51879,Rare,VAN,178/208,No
-"Event Ticket",30,1,N/A,,,No
+"Event Ticket",29,1,N/A,,,No
 "Khans of Tarkir Booster",9,54536,N/A,KTK,,No
 "Magic 2015 Hunt with Ambition",1,53865,N/A,M15,,No
 "Magic 2015 Hunt with Ferocity",1,53866,N/A,M15,,No
@@ -23,4 +23,4 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Magic 2015 Hunt with Strength",1,53867,N/A,M15,,No
 "Magic 2015 Hunt with Valor",1,53863,N/A,M15,,No
 "Magic Online Championship Series QP: Season 5",1,43083,N/A,QP,,No
-"Phantom Point",64,45195,N/A,,,No
+"Phantom Point",62,45195,N/A,,,No
