@@ -1,0 +1,777 @@
+5 Abstruse Interference
+1 Aberrant Researcher
+2 Abzan Falconer
+1 Adverse Conditions
+2 Aegis Angel
+8 Affa Protector
+3 Akoum Flameseeker
+5 Akoum Hellkite
+1 Akoum Stonewaker
+7 Aligned Hedron Network
+4 Allied Reinforcements
+5 Ally Encampment
+3 Alms of the Vein
+2 Altar's Reap
+4 Altered Ego
+4 Always Watching
+2 Ambush Krotiq
+2 Ancestral Vengeance
+6 Ancient Crab
+4 Angel of Deliverance
+1 Angel of Renewal
+6 Angelic Captain
+5 Angelic Gift
+4 Anguished Unmaking
+1 Apothecary Geist
+2 Arc Lightning
+2 Arcanis the Omnipotent
+2 Artful Maneuver
+2 Aspiring Aeronaut
+4 Asylum Visitor
+2 Auramancer
+4 Avacyn's Judgment
+2 Aven Skirmisher
+4 Ayli, Eternal Pilgrim
+1 Baloth Null
+1 Baloth Pup
+1 Bane of Bala Ged
+2 Barrage of Boulders
+5 Barrage Tyrant
+2 Bathe in Dragonfire
+5 Bearer of Silence
+5 Beastcaller Savant
+1 Behold the Beyond
+2 Belligerent Whiptail
+3 Benthic Infiltrator
+1 Birthing Hulk
+6 Blight Herder
+2 Blightcaster
+3 Blighted Fen
+2 Blighted Steppe
+3 Blighted Woodland
+1 Blinding Drone
+1 Blisterpod
+1 Bloodbond Vampire
+2 Blood-Chin Rager
+2 Blood-Cursed Knight
+2 Bloodmad Vampire
+2 Boiling Earth
+1 Bonds of Mortality
+3 Bone Saw
+2 Bone Splinters
+3 Boulder Salvo
+1 Bound by Moonsilver
+1 Brago, King Eternal
+4 Brain in a Jar
+1 Brainstorm
+4 Breaker of Armies
+2 Breakneck Rider
+1 Briarbridge Patrol
+2 Briber's Purse
+3 Brilliant Spectrum
+5 Bring to Light
+1 Broken Concentration
+4 Brood Butcher
+3 Brood Monitor
+5 Broodhunter Wurm
+4 Brutal Expulsion
+2 Brute Strength
+5 Burn from Within
+4 Bygone Bishop
+4 Byway Courier
+1 Call the Bloodline
+6 Call the Gatewatch
+4 Call the Scions
+2 Cancel
+5 Canopy Gorger
+4 Canopy Vista
+4 Captain's Claws
+2 Carbonize
+1 Carrier Thrall
+4 Catacomb Sifter
+1 Catalog
+2 Cathar's Companion
+4 Caves of Koilos
+3 Chaplain's Blessing
+2 Chief of the Edge
+2 Chief of the Foundry
+2 Chief of the Scale
+1 Chitinous Cloak
+4 Choked Estuary
+1 Cinder Barrens
+4 Cinder Glade
+3 Cinder Hellion
+2 Circle of Elders
+2 Citadel Castellan
+1 Clash of Wills
+2 Claustrophobia
+1 Cliffhaven Vampire
+3 Cliffside Lookout
+1 Clip Wings
+1 Cloud Manta
+5 Clutch of Currents
+3 Coastal Discovery
+2 Coat with Venom
+4 Collected Company
+2 Colossodon Yearling
+10 Comparative Analysis
+1 Compelling Deterrence
+5 Complete Disregard
+5 Conduit of Ruin
+4 Confirm Suspicions
+6 Consuming Sinkhole
+5 Containment Membrane
+2 Control Magic
+3 Convicted Killer
+2 Coralhelm Guide
+5 Corpse Churn
+6 Corrupted Crossroads
+4 Corrupted Grafstone
+5 Courier Griffin
+1 Crow of Dark Tidings
+1 Crumble to Dust
+3 Crumbling Vestige
+3 Cryptic Cruiser
+4 Cryptolith Rite
+2 Culling Drone
+1 Cultivator Drone
+2 Cunning Strike
+3 Cyclone Sire
+1 Dance with Devils
+1 Daring Sleuth
+3 Dark Petition
+2 Dauntless Cathar
+2 Dead Weight
+2 Deadbridge Shaman
+5 Deathcap Cultivator
+1 Deathless Behemoth
+2 Debilitating Injury
+4 Deceiver of Form
+3 Declaration in Stone
+1 Deep Analysis
+7 Deepfathom Skulker
+4 Defiant Bloodlord
+2 Demon's Grasp
+1 Den Protector
+2 Deny Existence
+1 Descend upon the Sinful
+5 Desolation Twin
+4 Devils' Playground
+2 Devilthorn Fox
+4 Dimensional Infiltrator
+4 Diregraf Colossus
+3 Disdainful Stroke
+4 Dispel
+1 Dissension in the Ranks
+2 Divine Verdict
+1 Dominator Drone
+2 Dragon Grip
+1 Dragonlord Atarka
+2 Dragonscale Boon
+4 Drana's Chosen
+2 Drana's Emissary
+5 Dread Defiler
+4 Drogskol Cavalry
+4 Drowner of Hope
+3 Drownyard Explorers
+4 Drownyard Temple
+2 Dual Shot
+1 Duplicant
+2 Duress
+4 Duskwatch Recruiter
+5 Dust Stalker
+2 Dutiful Attendant
+3 Dutiful Return
+2 Eagle of the Watch
+1 Earthen Arms
+4 Eerie Interlude
+3 Eldrazi Aggressor
+2 Eldrazi Devastator
+4 Eldrazi Displacer
+4 Eldrazi Mimic
+4 Eldrazi Obligator
+3 Elemental Uprising
+2 Elite Vanguard
+2 Elusive Spellfist
+4 Elusive Tormentor
+4 Elvish Visionary
+1 Ember-Eye Wolf
+2 Embodiment of Insight
+5 Emeria Shepherd
+1 Encircling Fissure
+4 Endbringer
+5 Endless One
+1 Engulf the Shore
+1 Enlightened Ascetic
+2 Enshrouding Mist
+1 Epiphany at the Drownyard
+1 Epitaph Golem
+1 Equestrian Skill
+1 Essence Depleter
+2 Ethereal Ambush
+3 Ethereal Guidance
+5 Ever After
+12 Evolving Wilds
+5 Exert Influence
+2 Expedite
+4 Expedition Envoy
+3 Expedition Raptor
+3 Explosive Apparatus
+4 Explosive Vegetation
+2 Expose Evil
+4 Eyeless Watcher
+4 Falkenrath Gorger
+4 Fall of the Titans
+2 Farbog Revenant
+5 Fathom Feeder
+3 Felidar Cub
+5 Felidar Sovereign
+1 Fertile Thicket
+2 Fetid Imp
+2 Fiery Hellhound
+2 Fiery Impulse
+1 Fiery Temper
+2 Firebolt
+2 Firemantle Mage
+4 Flameblade Angel
+2 Flatten
+1 Flayer Drone
+3 Flaying Tendrils
+1 Fleeting Memories
+2 Flesh to Dust
+4 Foreboding Ruins
+1 Forerunner of Slaughter
+56 Forest
+4 Forgotten Creation
+4 Fork in the Road
+4 Forsaken Sanctuary
+1 Fortified Rampart
+4 Fortified Village
+5 From Beyond
+4 From Under the Floorboards
+2 Frontier Mastodon
+1 Furtive Homunculus
+4 Game Trail
+1 Gatstaf Arsonists
+4 Geier Reach Bandit
+1 Geistblast
+3 Geyserfield Stalker
+2 Ghirapur Gearcrafter
+2 Ghostly Sentinel
+2 Ghostly Wings
+2 Ghoulcaller's Accomplice
+2 Ghoulsteed
+3 Giant Mantis
+1 Gibbering Fiend
+2 Gideon, Ally of Zendikar
+3 Gideon's Reproach
+1 Gisa's Bidding
+4 Gladehart Cavalry
+1 Gloomwidow
+4 Goblin Dark-Dwellers
+3 Goblin Freerunner
+1 Goblin Warchief
+2 Goblinslide
+1 Graf Mole
+3 Grasp of Darkness
+1 Grave Birthing
+6 Gravity Negator
+1 Greenwarden of Murasa
+2 Grim Contest
+1 Grip of Desolation
+3 Grip of the Roil
+4 Grotesque Mutation
+1 Grove Rumbler
+1 Grovetender Druids
+9 Gruesome Slaughter
+2 Gryff's Boon
+2 Guardian Automaton
+5 Guardian of Tazeem
+2 Guardian Shield-Bearer
+2 Gurmag Drowner
+5 Guul Draz Overseer
+2 Hagra Sharpshooter
+2 Hallowed Moonlight
+2 Hand of Silumgar
+2 Hangarback Walker
+4 Hanweir Militia Captain
+5 Harness the Storm
+2 Harsh Sustenance
+1 Harvester Troll
+3 Havoc Sower
+4 Hedron Alignment
+3 Hedron Archive
+4 Hedron Blade
+8 Hedron Crawler
+2 Heir of Falkenrath
+2 Herald of Dromoka
+1 Hermit of the Natterknolls
+5 Hero of Goma Fada
+1 Hinterland Logger
+4 Hissing Quagmire
+2 Hitchclaw Recluse
+6 Holdout Settlement
+1 Hope Against Hope
+3 Hound of the Farbogs
+2 Howlpack Resurgence
+3 Howlpack Wolf
+2 Hulking Devil
+2 Icefeather Aven
+2 Icy Blast
+1 Immobilizer Eldrazi
+1 Immolating Glare
+1 Incorrigible Youths
+2 Incremental Growth
+5 Incubator Drone
+4 Inexorable Blob
+2 Infernal Scarring
+2 Infinite Obliteration
+3 Infuse with the Elements
+4 Inquisitor's Ox
+5 Inspired Charge
+1 Inspiring Captain
+2 Into the Void
+2 Intrepid Provisioner
+1 Invasive Surgery
+1 Inverter of Truth
+4 Invocation of Saint Traft
+54 Island
+5 Isolation Zone
+2 Jace, Unraveler of Secrets
+1 Jace's Scrutiny
+2 Jaddi Offshoot
+2 Jeskai Student
+2 Joraga Auxiliary
+4 Jori En, Ruin Diver
+3 Just the Wind
+5 Jwar Isle Avenger
+2 Kalastria Nightwatch
+2 Kalitas, Traitor of Ghet
+1 Karakas
+2 Kheru Bloodsucker
+2 Kin-Tree Invocation
+2 Kitesail Scout
+1 Kor Bladewhirl
+2 Kor Castigator
+1 Kor Hookmaster
+5 Kor Scythemaster
+1 Kor Sky Climber
+2 Kozilek, the Great Distortion
+2 Kozilek's Channeler
+3 Kozilek's Pathfinder
+3 Kozilek's Sentinel
+2 Kozilek's Shrieker
+3 Kozilek's Translator
+1 Lambholt Pacifist
+1 Lamplighter of Selhoff
+4 Languish
+6 Lantern Scout
+4 Lavastep Raider
+4 Lead by Example
+3 Lifespring Druid
+2 Lightning Javelin
+1 Linvala, the Preserver
+2 Lithomancer's Focus
+4 Llanowar Wastes
+4 Loam Dryad
+7 Loam Larva
+2 Looming Spires
+4 Lumbering Falls
+3 Macabre Waltz
+1 Mad Prophet
+2 Mage-Ring Bully
+3 Magmatic Chasm
+2 Mahamoti Djinn
+5 Makindi Aeronaut
+3 Makindi Patrol
+1 Makindi Sliderunner
+2 Malakir Familiar
+1 Malakir Soothsayer
+2 Malevolent Whispers
+1 Mana Crypt
+1 Manic Scribe
+4 Man-o'-War
+2 March from the Tomb
+2 Mardu Scout
+2 Mardu Woe-Reaper
+4 Markov Dreadknight
+2 Master the Way
+4 Matter Reshaper
+2 Maw of Kozilek
+1 Meandering River
+1 Memory Lapse
+2 Merciless Executioner
+2 Merciless Resolve
+1 Might Beyond Reason
+5 Mighty Leap
+3 Militant Inquisitor
+4 Mina and Denn, Wildborn
+2 Mind Raker
+2 Mind Rot
+2 Mire's Malice
+1 Mirrorpool
+1 Mishra's Factory
+2 Mist Intruder
+2 Mistfire Adept
+1 Mistral Charger
+1 Moldgraf Scavenger
+1 Molten Nursery
+2 Monastery Swiftspear
+1 Moonlight Hunt
+1 Moorland Drifter
+1 Morkrut Necropod
+53 Mountain
+1 Munda, Ambush Leader
+4 Munda's Vanguard
+1 Murasa Ranger
+1 Murderer's Axe
+2 Murderous Compulsion
+2 Murk Strider
+1 Nagging Thoughts
+1 Nahiri's Machinations
+2 Natural Connection
+6 Natural State
+4 Needle Spires
+3 Negate
+5 Nephalia Moondrakes
+6 Netcaster Spider
+1 Nettle Drone
+3 Niblis of Dusk
+2 Nightmare
+3 Nirkana Assassin
+1 Nissa, Vastwood Seer
+8 Nissa, Voice of Zendikar
+4 Nissa's Pilgrimage
+4 Nissa's Renewal
+2 Noyan Dar, Roil Shaper
+1 Null Caller
+4 Oath of Chandra
+4 Oath of Gideon
+4 Oath of Jace
+5 Oath of Nissa
+2 Ob Nixilis Reignited
+3 Oblivion Strike
+4 Odric, Lunarch Marshal
+2 Ojutai Interceptor
+2 Ojutai's Breath
+1 Olivia's Bloodsworn
+1 Omnath, Locus of Rage
+1 Ondu Champion
+3 Ondu Greathorn
+1 Ondu Rising
+5 Ondu War Cleric
+3 Ongoing Investigation
+1 Open the Armory
+5 Oracle of Dust
+5 Oran-Rief Hydra
+1 Oran-Rief Invoker
+4 Outnumber
+8 Overwhelming Denial
+2 Pacifism
+1 Pack Guardian
+4 Painful Truths
+1 Pale Rider of Trostad
+1 Paranoid Parish-Blade
+2 Part the Waterveil
+3 Pathway Arrows
+1 Peregrine Drake
+1 Phantom Monster
+2 Pharika's Disciple
+1 Phyrexian Ingester
+2 Pick the Brain
+1 Pilgrim's Eye
+2 Pine Walker
+1 Pious Evangel
+54 Plains
+5 Planar Outburst
+2 Plated Crusher
+3 Plummet
+3 Port Town
+4 Prairie Stream
+1 Press for Answers
+2 Press into Service
+6 Prism Array
+4 Prized Amalgam
+2 Prized Unicorn
+2 Prophet of Distortion
+4 Pulse of Murasa
+3 Puncturing Light
+1 Pyre Hound
+1 Pyromancer's Assault
+2 Qarsi Deceiver
+1 Quilled Wolf
+3 Rabid Bite
+5 Radiant Flames
+2 Rakshasa Gravecaller
+1 Rampant Growth
+5 Rattlechains
+4 Ravaging Blaze
+2 Ravenous Bloodseeker
+2 Reach of Shadows
+3 Read the Bones
+6 Reality Hemorrhage
+4 Reality Smasher
+4 Reckless Cohort
+3 Reclaiming Vines
+2 Reclusive Artificer
+2 Reduce to Ashes
+4 Reflector Mage
+1 Relentless Dead
+2 Relentless Hunter
+1 Relic of Progenitus
+4 Relief Captain
+5 Remorseless Punishment
+1 Resolute Blademaster
+1 Retreat to Coralhelm
+1 Retreat to Hagra
+1 Retreat to Kazandu
+1 Retreat to Valakut
+2 Rhox Maulers
+2 Ringwarden Owl
+2 Roil Spout
+1 Roiling Waters
+7 Roilmage's Trick
+2 Roil's Retribution
+1 Rolling Thunder
+1 Root Out
+1 Rot Shambler
+1 Rottenheart Ghoul
+2 Rotting Mastodon
+1 Ruin in Their Wake
+1 Ruin Processor
+4 Ruinous Path
+1 Ruins of Oran-Rief
+1 Runaway Carriage
+2 Rush of Adrenaline
+2 Rush of Battle
+2 Rush of Ice
+2 Sabertooth Outrider
+4 Saddleback Lagac
+4 Sage of Ancient Lore
+2 Sage's Reverie
+2 Salvage Drone
+5 Sanctum of Ugin
+2 Sandblast
+4 Sandstone Bridge
+2 Sanguinary Mage
+3 Sanitarium Skeleton
+2 Sarkhan's Rage
+2 Savage Punch
+4 Scatter to the Winds
+2 Scion Summoner
+2 Scour from Existence
+4 Scourge Wolf
+4 Sea Gate Wreckage
+3 Seagraf Skaab
+2 Seal of Cleansing
+6 Searing Light
+2 Seasons Past
+4 Second Harvest
+1 Second Thoughts
+2 Secret Plans
+4 Secure the Wastes
+3 Seed Guardian
+5 Seek the Wilds
+3 Seer's Lantern
+2 Send to Sleep
+2 Sengir Vampire
+1 Senseless Rage
+2 Serene Steward
+5 Serpentine Spike
+3 Serra Angel
+2 Shamble Back
+5 Shambling Vent
+1 Shatterskull Recruit
+3 Sheer Drop
+2 Shivan Dragon
+1 Shivan Reef
+1 Shoreline Raider
+1 Shoreline Ranger
+3 Shoulder to Shoulder
+5 Shrine of the Forsaken Gods
+2 Sidisi's Faithful
+4 Sifter of Skulls
+2 Sight of the Scalelords
+1 Silburlind Snapper
+1 Silent Departure
+3 Silent Observer
+3 Silent Skimmer
+2 Silumgar Sorcerer
+5 Silverfur Partisan
+1 Silverstrike
+4 Sin Prodder
+2 Singing Bell Strike
+1 Sire of Stagnation
+1 Skitterskin
+4 Sky Scourer
+3 Skyline Cascade
+1 Skyrider Elf
+2 Skywise Teachings
+1 Slab Hammer
+2 Slaughter Drone
+4 Slayer's Plate
+2 Sleep Paralysis
+1 Slip Through Space
+2 Sludge Crawler
+1 Smash to Smithereens
+3 Smite the Monstrous
+4 Smoldering Marsh
+5 Smothering Abomination
+2 Snapping Gnarlid
+1 Solitary Hunter
+1 Sorin, Grim Nemesis
+4 Soul Swallower
+3 Soulcatcher
+1 Sparkmage's Gambit
+3 Spatial Contortion
+1 Spawning Bed
+3 Spell Shrivel
+2 Sphinx of the Final Word
+2 Spidersilk Net
+1 Sprite Noble
+2 Squadron Hawk
+7 Stalking Drone
+1 Stallion of Ashmouth
+1 Startled Awake
+1 Stasis Snare
+1 Stensia Masquerade
+1 Stern Constable
+2 Stitched Mangler
+3 Stoic Builder
+2 Stone Haven Medic
+6 Stone Haven Outfitter
+1 Stoneforge Acolyte
+4 Stoneforge Masterwork
+1 Stonefury
+2 Stormchaser Mage
+2 Strength of Arms
+1 Strider Harness
+2 Strongarm Monk
+3 Stubborn Denial
+2 Student of Ojutai
+4 Submerged Boneyard
+2 Sultai Flayer
+4 Sunken Hollow
+2 Sure Strike
+2 Survive the Night
+2 Suspension Field
+52 Swamp
+5 Swarm Surge
+7 Sweep Away
+1 Swiftwater Cliffs
+4 Sylvan Advocate
+1 Sylvan Scrying
+4 Tajuru Beastmaster
+4 Tajuru Pathwarden
+2 Tajuru Stalwart
+2 Tajuru Warcaller
+5 Tamiyo's Journal
+2 Tandem Tactics
+9 Tar Snare
+1 Tears of Valakut
+1 Tenacity
+2 Terra Stomper
+3 Territorial Baloth
+5 Thalia's Lieutenant
+1 The Great Aurora
+4 Thing in the Ice
+2 Thopter Engineer
+2 Thornhide Wolves
+4 Thought-Knot Seer
+1 Thraben Gargoyle
+2 Throttle
+1 Tide Drifter
+2 Tightening Coils
+1 Timber Gorge
+4 Tireless Tracker
+2 Titanic Growth
+4 To the Slaughter
+1 Tooth Collector
+2 Topan Freeblade
+2 Topplegeist
+2 Totem-Guide Hartebeest
+2 Touch of the Void
+1 Town Gossipmonger
+2 Trail of Evidence
+2 Tranquil Cove
+3 Transgress the Mind
+4 Traverse the Ulvenwald
+5 Triskaidekaphobia
+2 True-Faith Censer
+1 Tunneling Geopede
+1 Turn Against
+4 Twin Bolt
+4 Tyrant of Valakut
+4 Ugin's Insight
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog's Despoiler
+2 Ulamog's Reclaimer
+3 Ultimate Price
+1 Ulvenwald Hydra
+2 Umara Entangler
+4 Uncaged Fury
+1 Unified Front
+3 Unknown Shores
+5 Unnatural Aggression
+2 Unnatural Endurance
+3 Unruly Mob
+2 Untamed Hunger
+3 Valakut Invoker
+2 Valakut Predator
+2 Valeron Wardens
+2 Valley Dasher
+6 Vampire Envoy
+4 Vampire Noble
+1 Vampiric Rites
+1 Vessel of Ephemera
+2 Vessel of Malignity
+3 Vestige of Emrakul
+2 Veteran Cathar
+4 Veteran Warleader
+5 Vile Redeemer
+1 Village Messenger
+1 Virulent Plague
+1 Visions of Brutality
+1 Void Attendant
+4 Void Grafter
+1 Void Shatter
+2 Void Squall
+4 Volcanic Upheaval
+1 Voldaren Duelist
+2 Voracious Null
+1 Walker of the Wastes
+2 Wall of Omens
+2 Wall of Resurgence
+4 Wandering Fumarole
+3 War Priest of Thune
+3 Warden of Evos Isle
+3 Warden of Geometries
+1 Warped Landscape
+5 Warping Wail
+4 Wasteland Strangler
+10 Wastes
+5 Wave-Wing Elemental
+4 Weave Fate
+1 Weirding Wood
+4 Welcome to the Fold
+1 Welkin Guide
+3 Westvale Abbey
+2 Whisk Away
+2 Whisperer of the Wilds
+1 Whitemane Lion
+2 Wicker Witch
+2 Wild Slash
+2 Windrider Patrol
+3 Witness the End
+1 Wolf of Devil's Breach
+1 Wonder
+4 Woodland Wanderer
+1 World Breaker
+2 Write into Being
+4 Yavimaya Coast
+2 Youthful Scholar
+4 Zada, Hedron Grinder
+1 Zada's Commando
+2 Zendikar Incarnate
+5 Zendikar Resurgent
+2 Zulaport Cutthroat
