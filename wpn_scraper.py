@@ -2,12 +2,14 @@ import json
 import urllib2
 import time
 import datetime
+import collections
 
-now = int(time.time()*1000) # will this work for LocalTime?
+now = int(time.time()*1000)
 start = now
-end = now + 1000 * 3600 * 31 * 3 # 3 months
+months = 1
+end= now + 1000 * 3600 * 31 * months
 
-locations = ["Seattle", "Kirkland", "Bellevue", "Redmond", "Bellingham", "Snohomish"]
+locations = ["Seattle", "Kirkland", "Bellevue", "Redmond", "Bellingham", "Snohomish", "Everett", "Bellingham"]
 
 # Returns json.
 def main_request():
@@ -47,9 +49,15 @@ def main_request():
       names.append( '%s: %s' % (addr['City'], addr['Name']) )
       ids[names[-1]] = (org['AddressId'], org['Id'])
   names.sort()
+  events = collections.defaultdict(list)
   for n in names:
-    print n
-    secondary_request(*ids[n])
+    for d, t in secondary_request(*ids[n]):
+      events[d].append((n, t))
+  for d in sorted(events.iterkeys()):
+    print d.strftime("%D")
+    for n, t in events[d]:
+      print "  %s - %s" % (n, t)
+
 
 def secondary_request(addrID, orgID):
   time.sleep(0.5) # Rate limiting
@@ -77,7 +85,7 @@ def secondary_request(addrID, orgID):
   pptqs = [e for e in events if e['EventTypeCode'] == "PPTQ"]
   for p in pptqs:
     d = datetime.datetime.fromtimestamp(int(p["StartDate"][6:19])/1000)
-    print "", d.strftime("%D"), p[u'PlayFormatCode']
+    yield d, p[u'PlayFormatCode']
 
 main_request()
 
